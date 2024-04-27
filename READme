@@ -1,8 +1,20 @@
-# Data analyst
+# Analysis on Tasco Marine University Jos
+![](https://github.com/Abutujj/Marine-university-Jos-Analysis/blob/main/my%20cover%20page.png)
 
-I can use the following tools effectively
-- Microsoft excel,
-- Sql,
-- Power bi,
-- Spss,
-- R.
+## Introduction
+This is  a project on the analysis of employee in the marine college.
+this project is to analyse and derive an insight of employee average annual salary by department,
+employee age by gender,enployee by country and city,employee by gender and ethnicity,employee
+bonus% by business unit,highest and lowest salary of employee etc.
+
+**_Disclaimer_**:All dataset and report do not represent any organisation but just a dummy 
+dataset for practice
+
+## Problem Statement
+1.  Employee average annual salary by department
+2. Employee age by gender
+3. Employee by country and city
+4. Employee by gender and ethnicity
+5. Employee bonus% by business unit
+6.  Highest and lowest salary of employee 
+
